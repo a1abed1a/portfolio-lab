@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	color: #b28ee0;
 }
 
 .title-styles {
@@ -30,6 +31,7 @@ html {
 }
 
 header {
+	color: #b28ee0;
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -38,7 +40,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("https://i.pinimg.com/originals/63/95/21/639521543e2206ba9e451bf421c475fd.gif");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -95,7 +97,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: #b28ee0;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
@@ -231,7 +233,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #B045D0;
 }
 
 .experience-icon {
@@ -353,7 +355,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #B045D0;
 	padding-bottom: 5%;
 }
 
